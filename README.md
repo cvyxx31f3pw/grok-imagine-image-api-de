@@ -105,6 +105,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-cd051d) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [grok-imagine-image-prompts-de](https://github.com/cvyxx31f3pw/grok-imagine-image-prompts-de)
+- **Same model, other languages** — 9 more language builds: 中文 `grok-imagine-image-api-cn` · Español `grok-imagine-image-api-es` · Français `grok-imagine-image-api-fr` · Relay/gateway `grok-imagine-image-api-gateway` · Bahasa [grok-imagine-image-api-id](https://github.com/fb5mjg/grok-imagine-image-api-id) · 日本語 `grok-imagine-image-api-ja` · 한국어 `grok-imagine-image-api-ko` · Português [grok-imagine-image-api-pt](https://github.com/s1q0gub2muxcr6/grok-imagine-image-api-pt) · Русский [grok-imagine-image-api-ru](https://github.com/hnad0/grok-imagine-image-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-image](https://github.com/topics/grok-imagine-image) · [grok-imagine-image-api](https://github.com/topics/grok-imagine-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
